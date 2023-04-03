@@ -10,6 +10,6 @@
 
 ---
 
-👨‍💻 <a href="https://hugos.computer">hugos.computer</a>
+👨‍💻 <a href="https://hugos.computer">hugos.computer</a>  
 🐦 <a href="https://twitter.com/etthugo">twitter.com/etthugo</a>  
 🌠 <a href="https://codesandbox.com/etthugo">codesandbox.com/u/wiledal</a>  
