@@ -5,7 +5,7 @@
 <h3 align="center">Full-stack Creative Technologist</h3>
 
 <p align="center">
-  Building <a href="https://bits.bi">Bits Technology</a> and <a href="https://github.com/pmndrs/react-three-rapier">@react-three/rapier</a>
+  Building <a href="https://lovable.dev">Lovable 💛</a> and <a href="https://github.com/pmndrs/react-three-rapier">@react-three/rapier</a>
 </p>
 
 ---
